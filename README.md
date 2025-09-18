@@ -60,17 +60,17 @@ We can use exactly the same mask patterns for both methods, the only difference 
 
 ### Monitoring of cell motion and development
 
-**Starting Sep 11th**, we will also start a first experiment of cells on a adhesion pattern. We will use the [HoloMonitor microscope](https://phiab.com/holomonitor/) to make timelapse videos of the cells.
+We will also start a first experiment of cells on a adhesion pattern. We will use the [HoloMonitor microscope](https://phiab.com/holomonitor/) to make timelapse videos of the cells.
 
 -----
 
 ### Analyzing cell motion and development
 
-**Starting Sep 18th**, we will view and start analyzing the timelapse videos of the cells moving on the adhesion pattern.
+We will view and start analyzing the timelapse videos of the cells moving on the adhesion pattern.
 
 -----
 
 ### Deep UV lithography for fibronectin patterns
 
-**Starting Sep 25th**, we will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/procedures/microfab-128-129/surface-pattern-#DeepUV) to transfer the pattern from the photomask to an adhesive pattern of fibronectin molecules.
+We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/procedures/microfab-128-129/surface-pattern-#DeepUV) to transfer the pattern from the photomask to an adhesive pattern of fibronectin molecules.
 
