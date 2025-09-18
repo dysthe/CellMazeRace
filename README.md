@@ -4,9 +4,11 @@ LagLivLab project started Sept 2025 to create mazes for cell races and run fun a
 
 *Fun, beautiful & lot's of useful training*
 
-\<p style="text-align: center;"\>Setup of the 2014 [Dicty World Races](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154491)\</p\>
 
-\<iframe width="640" height="360" src="https://www.google.com/search?q=https://vimeo.com/139265778" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen\>\</iframe\>
+
+[Setup of the 2014](/assets/dictyworldrace.png) [Dicty World Races](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154491)
+
+[Example of a cell race at Dicty World Races](/assets/pone.0154491.s001.avi)
 
 In 2014, teams from around the world participated with their favorite cells in the [Dicty World Races](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154491). The cells were attracted by a chemical (a so-called chemoattractant) that was most concentrated at the finish line. But to reach the finish line they had to find a path through a maze of micro-tunnels. The maze with all the cells were imaged to track the cell motion and analyze it. The video of cells in the maze gives you an impression of how one cell type moved.
 
