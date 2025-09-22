@@ -81,9 +81,13 @@ We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/pro
 
 
 ### Peder test
+
 [peder.md](peder.md)
+<<<<<<< HEAD
 
 ### Yousef test 
 
 [Yousef sin test] (Yousef.md)
 =======
+=======
+>>>>>>> 4e9df8f1d5f489a35e029835a740d4900bd1bb16
