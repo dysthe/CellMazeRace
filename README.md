@@ -77,4 +77,4 @@ We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/pro
 
 ### Test pages
 
-[Dag's test page][testpage_dag.md]
+[Dag's test page](testpage_dag.md)
