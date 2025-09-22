@@ -80,3 +80,10 @@ We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/pro
 [Dag's test page](testpage_dag.md)
 
 
+### Peder test
+
+[peder.md](peder.md)
+
+### Yousef test 
+
+[Yousef sin test](Yousef.md)
