@@ -95,3 +95,6 @@ We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/pro
 ### Tony test
 
 [Tony sin test](test_tony.md)
+
+### Amina test
+[Amina sin test](test_amina.md)
