@@ -82,7 +82,7 @@ We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/pro
 
 ### Peder test
 
-[peder.md](peder.md)
+[peder's test](peder.md)
 
 ### Yousef test 
 
