@@ -91,3 +91,7 @@ We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/pro
 ### Karsten test
 
 [Karsten sin test](karsten.md)
+
+### Tony test
+
+[Tony sin test](test_tony.md)
