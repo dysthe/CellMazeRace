@@ -76,7 +76,7 @@ We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/pro
 
 ### Referat 22.09.25
 
-[Referat fra 22.09.25](22.09.25_referat.md.md)
+[Referat fra 22.09.25](22.09.25_referat.md)
 
 
 ### Test pages
