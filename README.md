@@ -74,27 +74,3 @@ We will view and start analyzing the timelapse videos of the cells moving on the
 
 We will use [this procedure](https://www.mn.uio.no/english/studies/laglivlab/procedures/microfab-128-129/surface-pattern-#DeepUV) to transfer the pattern from the photomask to an adhesive pattern of fibronectin molecules.
 
-
-### Test pages
-
-[Dag's test page](testpage_dag.md)
-
-
-### Peder test
-
-[peder's test](peder.md)
-
-### Yousef test 
-
-[Yousef sin test](Yousef.md)
-
-### Karsten test
-
-[Karsten sin test](karsten.md)
-
-### Tony test
-
-[Tony sin test](test_tony.md)
-
-### Amina test
-[Amina sin test](test_amina.md)
